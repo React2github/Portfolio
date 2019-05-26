@@ -1,0 +1,31 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+
+<div class='container'> 
+<nav id='navbar'> 
+  <ul> 
+    <li> <a href='#welcome-section'> About </a></li>
+    <li> <a href='#projects'> Projects </a></li>
+    <li> <a href='#contacts'> Contacts </a></li>
+  </ul>
+  </nav> 
+
+
+<section id='welcome-section' class='welcome-section'> 
+<h1> Abdella's Professional Portfolio </h1>
+  <p> A front end web developer </p> 
+  </section> 
+</div>
+
+<section id="projects" class="projects">
+  <h2 class="work-header">My  projects</h2>
+  <a href="https://codepen.io/African_Neo/pen/LvjWry" target="_blank" class="project project-tile">
+    <img class="project-pic" src="https://live.staticflickr.com/7142/6801628261_7f0f7c132d.jpg" alt="pic from flickr">
+    <div class="project-title">Tribute Page</div>
+    
+    <div id="contacts" class="contact">
+  <div class="header">
+    <h1>Let's work together...</h1>
+    <p>How do you take your coffee?</p>
+  </div>
+  <a id='profile-link' href="https://www.freecodecamp.org/abdella2" target="_blank" class="contact-details"> Free Code Camp </a></div> 
